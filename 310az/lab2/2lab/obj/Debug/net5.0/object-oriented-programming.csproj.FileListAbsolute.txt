@@ -1,0 +1,16 @@
+D:\310az\2lab\obj\Debug\net5.0\object-oriented-programming.csproj.AssemblyReference.cache
+D:\310az\2lab\obj\Debug\net5.0\object-oriented-programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\310az\2lab\obj\Debug\net5.0\object-oriented-programming.AssemblyInfoInputs.cache
+D:\310az\2lab\obj\Debug\net5.0\object-oriented-programming.AssemblyInfo.cs
+D:\310az\2lab\obj\Debug\net5.0\object-oriented-programming.csproj.CoreCompileInputs.cache
+D:\310az\2lab\bin\Debug\net5.0\oo-programming.exe
+D:\310az\2lab\bin\Debug\net5.0\oo-programming.deps.json
+D:\310az\2lab\bin\Debug\net5.0\oo-programming.runtimeconfig.json
+D:\310az\2lab\bin\Debug\net5.0\oo-programming.runtimeconfig.dev.json
+D:\310az\2lab\bin\Debug\net5.0\oo-programming.dll
+D:\310az\2lab\bin\Debug\net5.0\ref\oo-programming.dll
+D:\310az\2lab\bin\Debug\net5.0\oo-programming.pdb
+D:\310az\2lab\obj\Debug\net5.0\oo-programming.dll
+D:\310az\2lab\obj\Debug\net5.0\ref\oo-programming.dll
+D:\310az\2lab\obj\Debug\net5.0\oo-programming.pdb
+D:\310az\2lab\obj\Debug\net5.0\object-oriented-programming.genruntimeconfig.cache
